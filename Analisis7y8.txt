@@ -1,0 +1,8 @@
+7. Análisis exploratorio
+Los datos muestran que el tipo de lucha tiene el mayor ataque promedio(103 aprox), mientras que Roca y Tierra destacan en defensa, Fantasma y 
+Normal presentan valores bajos en ambas. La correlación entre ataque y velocidad es 0,19 y muy débil, por lo que no existe una relación clara entre ser fuerte y rápido. En PS, 
+el tipo Normal es el más disperso (desde el Rattata con 30 hasta Chansey con 250), mientras que Bicho y fantasma son más homogéneos. Los outlies identificados Dragonite , Flareon y Machamp en ataque y Chansey y Snorlax en PS. 
+
+8, Ejercicios de interpretación
+En general, los Pokémon de la primera generación muestran roles bien definidos, ofensivos(lucha, dragón) defensivos (Roca, Tierra), velocistas(Eléctricos) y resistentes (normal), 
+el pokemon más balanceado es Mew, con 100 en todas sus estadísticas, mientras que el más especializado es Chansey, con PS muy altos pero bajo ataque y defensa. 
