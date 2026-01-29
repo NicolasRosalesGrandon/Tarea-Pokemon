@@ -1,2 +1,2 @@
-# Tarea-Pokemon(DATA SCIENCE)
+# Tarea-Pokemon--Data Science 
 Tarea Pokemon
